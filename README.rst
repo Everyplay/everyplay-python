@@ -163,3 +163,10 @@ everyplay-python is published under a `BSD License`_.
 .. _`submit issues`: https://github.com/Everyplay/everyplay-python/issues
 .. _`fork the repository`: https://github.com/Everyplay/everyplay-python
 .. _`BSD License`: https://github.com/Everyplay/everyplay-python/blob/master/LICENSE
+
+Thanks
+------
+
+The everyplay-python is a fork of `soundcloud-python`_.
+
+.. _`soundcloud-python`: https://github.com/soundcloud/soundcloud-python
